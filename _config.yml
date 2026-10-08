@@ -23,11 +23,11 @@ repository               : "bb88-bb8/bb88-bb8.github.io"
 author:
   # Biographic information
   avatar           : "avatar.jpg"
-  name             : "Hao-Yu Tsai"
+  name             : "Hao-Yu Tsai Ph.D."
   pronouns         : 
-  bio              : "Ph.D. Candidate in Communications Engineering"
+  bio              : 
   location         : "Hsinchu, Taiwan"
-  employer         : "National Tsing Hua University"
+  employer         : 
   uri              : 
 
   # Academic websites
@@ -36,10 +36,10 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=dkq-_t8AAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0006-1712-8862"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
